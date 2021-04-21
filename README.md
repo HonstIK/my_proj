@@ -1,1 +1,1 @@
-# my_proj
+# my_app
